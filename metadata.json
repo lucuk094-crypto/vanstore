@@ -1,0 +1,7 @@
+{
+  "name": "VanStore - Marketplace Source Code & Templates",
+  "description": "Platform marketplace source code arsitektur siap deploy, live demo interaktif, panduan deploy gratis ke Vercel/Netlify, dan admin management panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
